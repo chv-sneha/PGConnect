@@ -1,0 +1,51 @@
+id,user_id,skill_name,proficiency_level,years_experience,can_teach,wants_to_learn,verified,certificates
+1,1,Python,Advanced,5,Yes,No,Yes,Python Cert
+2,2,Photoshop,Intermediate,3,Yes,No,Yes,Adobe Cert
+3,3,Guitar,Beginner,1,No,Yes,No,
+4,4,Excel,Advanced,4,Yes,No,Yes,Excel Cert
+5,5,Spanish,Intermediate,2,No,Yes,No,
+6,6,Cooking,Advanced,6,Yes,No,Yes,Culinary Cert
+7,7,Photoshop,Beginner,1,No,Yes,No,
+8,8,JavaScript,Intermediate,3,Yes,No,Yes,JS Cert
+9,9,Piano,Intermediate,2,Yes,No,No,
+10,10,SEO,Advanced,5,Yes,No,Yes,SEO Cert
+11,11,Photography,Beginner,1,No,Yes,No,
+12,12,Python,Intermediate,2,Yes,No,Yes,Python Cert
+13,13,Graphic Design,Intermediate,3,Yes,No,Yes,Design Cert
+14,14,Baking,Advanced,5,Yes,No,Yes,Culinary Cert
+15,15,C++,Intermediate,3,Yes,No,Yes,Coding Cert
+16,16,English,Beginner,1,No,Yes,No,
+17,17,Guitar,Advanced,6,Yes,No,Yes,Music Cert
+18,18,Python,Advanced,5,Yes,No,Yes,Python Cert
+19,19,Photoshop,Intermediate,3,Yes,No,Yes,Adobe Cert
+20,20,Music Theory,Beginner,1,No,Yes,No,
+21,21,Video Editing,Intermediate,2,Yes,No,Yes,Video Cert
+22,22,HTML,Beginner,1,No,Yes,No,
+23,23,SQL,Intermediate,3,Yes,No,Yes,Database Cert
+24,24,Spanish,Beginner,1,No,Yes,No,
+25,25,Cooking,Advanced,5,Yes,No,Yes,Culinary Cert
+26,26,Python,Intermediate,2,Yes,No,Yes,Python Cert
+27,27,Guitar,Intermediate,3,Yes,No,Yes,Music Cert
+28,28,Photoshop,Beginner,1,No,Yes,No,
+29,29,Excel,Advanced,4,Yes,No,Yes,Excel Cert
+30,30,JavaScript,Intermediate,3,Yes,No,Yes,JS Cert
+31,31,Photography,Beginner,1,No,Yes,No,
+32,32,C++,Advanced,5,Yes,No,Yes,Coding Cert
+33,33,Baking,Intermediate,2,Yes,No,Yes,Culinary Cert
+34,34,English,Intermediate,3,Yes,No,Yes,English Cert
+35,35,Music Theory,Advanced,5,Yes,No,Yes,Music Cert
+36,36,Video Editing,Beginner,1,No,Yes,No,
+37,37,HTML,Intermediate,2,Yes,No,Yes,Web Cert
+38,38,SQL,Advanced,4,Yes,No,Yes,Database Cert
+39,39,Spanish,Intermediate,2,Yes,No,Yes,Language Cert
+40,40,Cooking,Beginner,1,No,Yes,No,
+41,41,Python,Advanced,6,Yes,No,Yes,Python Cert
+42,42,Guitar,Intermediate,3,Yes,No,Yes,Music Cert
+43,43,Photoshop,Beginner,1,No,Yes,No,
+44,44,Excel,Intermediate,2,Yes,No,Yes,Excel Cert
+45,45,JavaScript,Advanced,5,Yes,No,Yes,JS Cert
+46,46,Photography,Intermediate,3,Yes,No,Yes,Photo Cert
+47,47,C++,Beginner,1,No,Yes,No,
+48,48,Baking,Advanced,5,Yes,No,Yes,Culinary Cert
+49,49,English,Intermediate,3,Yes,No,Yes,English Cert
+50,50,Music Theory,Beginner,1,No,Yes,No,

@@ -1,0 +1,32 @@
+id,user_id,skill_needed,title,description,budget_range,deadline,location,is_remote,urgency_level,status,created_at
+1,5,Python,Need Python tutor,Looking for someone to teach Python basics,$50-$100,2025-11-01,Remote,Yes,Medium,Open,2025-10-01
+2,12,Photoshop,Photo editing help,Need help editing product images,$30-$70,2025-10-25,New York,No,High,Open,2025-09-28
+3,7,Guitar,Guitar lessons,Want beginner guitar lessons,$40-$80,2025-11-10,Los Angeles,No,Medium,Open,2025-10-02
+4,9,Excel,Excel automation help,Help to automate Excel reports,$50-$120,2025-11-05,Remote,Yes,High,Open,2025-09-30
+5,15,Spanish,Spanish conversation partner,Practice conversational Spanish,$20-$50,2025-10-28,Madrid,No,Medium,Open,2025-09-27
+6,3,Cooking,Cooking lessons,Looking to learn Italian cooking,$60-$100,2025-11-12,Remote,Yes,Low,Open,2025-09-29
+7,18,Photoshop,Advanced editing,Need advanced photo retouching help,$70-$150,2025-11-20,London,No,High,Open,2025-09-25
+8,6,JavaScript,Web development help,Assist in building JS web app,$50-$120,2025-11-08,Remote,Yes,Medium,Open,2025-09-26
+9,21,Piano,Piano teacher,Teach piano scales and pieces,$40-$90,2025-10-30,Chicago,No,Medium,Open,2025-09-28
+10,10,SEO,SEO consultant,Improve website SEO ranking,$80-$150,2025-11-15,Remote,Yes,High,Open,2025-09-27
+11,4,Photography,Portrait photography,Learn portrait techniques,$50-$100,2025-11-02,Paris,No,Medium,Open,2025-09-29
+12,13,Python,Data analysis,Help with Python data analysis,$60-$120,2025-11-10,Remote,Yes,High,Open,2025-09-30
+13,8,Graphic Design,Logo design,Need creative logo design help,$40-$80,2025-11-18,Berlin,No,Medium,Open,2025-09-25
+14,2,Baking,Pastry lessons,Learn to bake pastries,$50-$90,2025-11-05,Remote,Yes,Low,Open,2025-09-28
+15,11,C++,Coding practice,Help with competitive coding,$70-$130,2025-11-12,Remote,Yes,High,Open,2025-09-26
+16,14,English,Conversation partner,Practice English speaking,$20-$50,2025-10-29,London,No,Medium,Open,2025-09-27
+17,17,Guitar,Electric guitar lessons,Learn electric guitar chords,$50-$100,2025-11-10,New York,No,Medium,Open,2025-09-29
+18,19,Python,Full-stack web help,Assist in building Python web app,$60-$150,2025-11-20,Remote,Yes,High,Open,2025-09-30
+19,22,Photoshop,Photo editing,Help editing images for social media,$40-$90,2025-11-05,Remote,Yes,Medium,Open,2025-09-28
+20,24,Music Theory,Music theory lessons,Learn fundamental music theory,$30-$70,2025-10-30,Los Angeles,No,Low,Open,2025-09-27
+21,1,Video Editing,Learn Premiere Pro,Need beginner video editing guidance,$50-$100,2025-11-08,Remote,Yes,Medium,Open,2025-09-29
+22,5,HTML,Web basics,Teach HTML & CSS basics,$40-$80,2025-11-05,Remote,Yes,Low,Open,2025-09-28
+23,6,SQL,Database help,Assist with SQL queries,$60-$120,2025-11-10,Remote,Yes,High,Open,2025-09-30
+24,7,Spanish,Language practice,Looking for Spanish language partner,$20-$50,2025-10-28,Paris,No,Medium,Open,2025-09-27
+25,8,Cooking,Italian cuisine,Learn advanced Italian cooking,$60-$120,2025-11-15,Rome,No,High,Open,2025-09-29
+26,9,Python,Data science help,Assist with Python data projects,$70-$150,2025-11-20,Remote,Yes,High,Open,2025-09-30
+27,10,Guitar,Classical guitar lessons,Teach classical guitar pieces,$50-$100,2025-11-08,New York,No,Medium,Open,2025-09-28
+28,11,Photoshop,Creative effects,Help create Photoshop effects,$40-$90,2025-11-18,Remote,Yes,Medium,Open,2025-09-29
+29,12,Excel,Excel macros,Assist in creating Excel macros,$50-$100,2025-11-05,Remote,Yes,High,Open,2025-09-27
+30,13,JavaScript,React help,Guide in React web app development,$60-$120,2025-11-12,Remote,Yes,High,Open,2025-09-28
+31,14,Photography,Landscape editing,Help edit

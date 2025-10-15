@@ -1,0 +1,51 @@
+id,exchange_id,reviewer_id,reviewee_id,rating,comment,skills_learned,would_recommend,created_at
+1,1,5,1,5,Excellent tutor,Python basics,Yes,2025-10-03
+2,2,12,2,4,Good editing guidance,Photoshop fundamentals,Yes,2025-10-01
+3,3,7,3,5,Very helpful,Acoustic guitar skills,Yes,2025-10-11
+4,4,9,4,4,Learned a lot,Excel automation,Yes,2025-10-02
+5,5,15,5,5,Great conversation partner,Spanish speaking,Yes,2025-10-01
+6,6,3,6,4,Helpful cooking lessons,Italian dishes,Yes,2025-10-06
+7,7,18,7,3,Needs improvement,Advanced Photoshop,Maybe,2025-10-03
+8,8,6,8,5,Excellent guidance,JS web development,Yes,2025-10-02
+9,9,21,9,4,Good teaching,Piano scales,Yes,2025-10-07
+10,10,10,10,5,Very professional,SEO basics,Yes,2025-10-03
+11,11,4,11,4,Helpful tips,Portrait photography,Yes,2025-10-02
+12,12,13,12,5,Learned a lot,Python data analysis,Yes,2025-10-08
+13,13,8,13,3,Average assistance,Logo design,Maybe,2025-10-03
+14,14,2,14,5,Excellent teacher,Baking pastries,Yes,2025-10-02
+15,15,11,15,5,Highly recommended,Coding algorithms,Yes,2025-10-04
+16,16,14,16,4,Good improvement,English conversation,Yes,2025-10-03
+17,17,17,17,5,Very helpful,Electric guitar,Yes,2025-10-05
+18,18,19,18,5,Excellent guidance,Full-stack Python,Yes,2025-10-09
+19,19,22,19,4,Helpful edits,Photoshop editing,Yes,2025-10-04
+20,20,24,20,4,Good teaching,Music theory,Yes,2025-10-03
+21,21,1,21,5,Very clear,Video editing,Yes,2025-10-06
+22,22,5,22,4,Helpful session,HTML/CSS basics,Yes,2025-10-04
+23,23,6,23,5,Excellent tutor,SQL queries,Yes,2025-10-05
+24,24,7,24,4,Good assistance,Spanish practice,Yes,2025-10-03
+25,25,8,25,5,Learned a lot,Italian cuisine,Yes,2025-10-06
+26,26,9,26,5,Highly professional,Python data projects,Yes,2025-10-09
+27,27,10,27,4,Good guidance,Classical guitar,Yes,2025-10-05
+28,28,11,28,3,Average support,Photoshop effects,Maybe,2025-10-04
+29,29,12,29,5,Excellent tutor,Excel macros,Yes,2025-10-06
+30,30,13,30,5,Very helpful,React basics,Yes,2025-10-08
+31,31,14,31,4,Good session,Landscape editing,Yes,2025-10-05
+32,32,15,32,5,Highly recommended,Coding algorithms,Yes,2025-10-07
+33,33,16,33,4,Helpful instructor,Cake decoration,Yes,2025-10-06
+34,34,17,34,4,Good teaching,English grammar,Yes,2025-10-05
+35,35,18,35,5,Excellent guidance,Advanced music theory,Yes,2025-10-08
+36,36,19,36,4,Helpful tips,After Effects basics,Yes,2025-10-05
+37,37,20,37,5,Very clear,Web design,Yes,2025-10-06
+38,38,21,38,5,Highly recommended,Data pipelines,Yes,2025-10-08
+39,39,22,39,4,Good guidance,Spanish practice,Yes,2025-10-05
+40,40,23,40,5,Excellent tutor,Dessert making,Yes,2025-10-09
+41,41,24,41,5,Learned a lot,Machine Learning basics,Yes,2025-10-08
+42,42,25,42,4,Helpful instructor,Blues guitar,Yes,2025-10-06
+43,43,26,43,3,Average assistance,Photo retouching,Maybe,2025-10-05
+44,44,27,44,5,Excellent guidance,Data reporting,Yes,2025-10-07
+45,45,28,45,5,Highly professional,React basics,Yes,2025-10-08
+46,46,29,46,4,Good teaching,Wedding photography,Yes,2025-10-06
+47,47,30,47,5,Very helpful,DSA practice,Yes,2025-10-07
+48,48,31,48,4,Helpful guidance,Healthy baking,Yes,2025-10-06
+49,49,32,49,4,Good session,Business English,Yes,2025-10-05
+50,50,33,50,5,Excellent instructor,Piano improvisation,Yes,2025-10-08

@@ -1,0 +1,51 @@
+id,exchange_id,session_date,duration,location,meeting_link,status,notes,completed_at
+1,1,2025-10-04,1 hour,Remote,https://meet.example.com/abc123,Scheduled,Introductory session,2025-10-04
+2,2,2025-10-01,2 hours,New York,,Completed,Edited product images,2025-10-01
+3,3,2025-10-06,1.5 hours,Los Angeles,,Completed,Guitar practice session,2025-10-06
+4,4,2025-10-02,2 hours,Remote,https://meet.example.com/def456,Completed,Excel automation,2025-10-02
+5,5,2025-10-01,1 hour,Madrid,,Completed,Spanish conversation,2025-10-01
+6,6,2025-10-07,2 hours,Remote,https://meet.example.com/ghi789,Completed,Italian cooking session,2025-10-07
+7,7,2025-10-03,1 hour,London,,Scheduled,Photoshop advanced lesson,
+8,8,2025-10-02,2 hours,Remote,https://meet.example.com/jkl012,Completed,JS web development,2025-10-02
+9,9,2025-10-08,1.5 hours,Chicago,,Completed,Piano scales,2025-10-08
+10,10,2025-10-03,2 hours,Remote,https://meet.example.com/mno345,Scheduled,SEO basics,
+11,11,2025-10-02,1 hour,Paris,,Completed,Portrait photography,2025-10-02
+12,12,2025-10-08,2 hours,Remote,https://meet.example.com/pqr678,Completed,Python data analysis,2025-10-08
+13,13,2025-10-03,1.5 hours,Berlin,,Scheduled,Logo design session,
+14,14,2025-10-02,2 hours,Remote,https://meet.example.com/stu901,Completed,Baking pastries,2025-10-02
+15,15,2025-10-04,2.5 hours,Remote,https://meet.example.com/vwx234,Completed,Coding algorithms,2025-10-04
+16,16,2025-10-03,1 hour,London,,Scheduled,English conversation,
+17,17,2025-10-05,1.5 hours,New York,,Completed,Electric guitar lesson,2025-10-05
+18,18,2025-10-09,2 hours,Remote,https://meet.example.com/yz1234,Completed,Full-stack Python,2025-10-09
+19,19,2025-10-04,1 hour,Remote,https://meet.example.com/abc567,Scheduled,Photoshop editing,
+20,20,2025-10-03,1.5 hours,Los Angeles,,Completed,Music theory basics,2025-10-03
+21,21,2025-10-06,2 hours,Remote,https://meet.example.com/def890,Completed,Video editing session,2025-10-06
+22,22,2025-10-04,1 hour,Remote,https://meet.example.com/ghi123,Scheduled,HTML/CSS basics,
+23,23,2025-10-05,2 hours,Remote,https://meet.example.com/jkl456,Completed,SQL queries,2025-10-05
+24,24,2025-10-03,1 hour,Paris,,Completed,Spanish practice,2025-10-03
+25,25,2025-10-06,2 hours,Rome,,Completed,Italian cuisine session,2025-10-06
+26,26,2025-10-09,2 hours,Remote,https://meet.example.com/mno789,Completed,Python data projects,2025-10-09
+27,27,2025-10-05,1.5 hours,New York,,Completed,Classical guitar,2025-10-05
+28,28,2025-10-04,1 hour,Remote,https://meet.example.com/pqr012,Scheduled,Photoshop effects,
+29,29,2025-10-06,2 hours,Remote,https://meet.example.com/stu345,Completed,Excel macros,2025-10-06
+30,30,2025-10-08,2 hours,Remote,https://meet.example.com/vwx678,Completed,React basics,2025-10-08
+31,31,2025-10-05,1 hour,Remote,https://meet.example.com/yz567,Scheduled,Landscape editing,
+32,32,2025-10-07,2.5 hours,Remote,https://meet.example.com/abc890,Completed,Coding algorithms,2025-10-07
+33,33,2025-10-06,1.5 hours,Remote,https://meet.example.com/def123,Completed,Cake decoration,2025-10-06
+34,34,2025-10-05,1 hour,London,,Scheduled,English grammar,
+35,35,2025-10-08,2 hours,Remote,https://meet.example.com/ghi456,Completed,Advanced music theory,2025-10-08
+36,36,2025-10-05,1.5 hours,Remote,https://meet.example.com/jkl789,Completed,After Effects basics,2025-10-05
+37,37,2025-10-06,2 hours,Remote,https://meet.example.com/mno012,Completed,Web design,2025-10-06
+38,38,2025-10-08,2 hours,Remote,https://meet.example.com/pqr345,Completed,Data pipelines,2025-10-08
+39,39,2025-10-05,1 hour,Madrid,,Scheduled,Spanish practice,
+40,40,2025-10-09,2 hours,Remote,https://meet.example.com/stu678,Completed,Dessert making,2025-10-09
+41,41,2025-10-08,2 hours,Remote,https://meet.example.com/vwx901,Completed,Machine Learning basics,2025-10-08
+42,42,2025-10-06,1.5 hours,New York,,Completed,Blues guitar,2025-10-06
+43,43,2025-10-05,1 hour,Remote,https://meet.example.com/yz890,Scheduled,Photo retouching,
+44,44,2025-10-07,2 hours,Remote,https://meet.example.com/abc234,Completed,Data reporting,2025-10-07
+45,45,2025-10-08,2 hours,Remote,https://meet.example.com/def567,Completed,React basics,2025-10-08
+46,46,2025-10-06,1.5 hours,Paris,,Completed,Wedding photography,2025-10-06
+47,47,2025-10-07,2 hours,Remote,https://meet.example.com/ghi890,Completed,DSA practice,2025-10-07
+48,48,2025-10-06,1.5 hours,Remote,https://meet.example.com/jkl123,Completed,Healthy baking,2025-10-06
+49,49,2025-10-05,1 hour,London,,Completed,Business English,2025-10-05
+50,50,2025-10-08,2 hours,Remote,https://meet.example.com/mno456,Completed,Piano improvisation,2025-10-08

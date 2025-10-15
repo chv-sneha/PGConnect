@@ -1,0 +1,51 @@
+id,exchange_id,sender_id,receiver_id,message,timestamp,is_read,message_type
+1,1,5,1,Hi! Looking forward to our Python session.,2025-10-02 10:00,Yes,Text
+2,2,12,2,Hello! Ready to start editing images?,2025-09-29 09:30,Yes,Text
+3,3,7,3,Can we practice guitar chords today?,2025-10-03 14:15,No,Text
+4,4,9,4,Need help with Excel macros.,2025-09-30 11:45,Yes,Text
+5,5,15,5,Shall we start the Spanish session?,2025-09-28 16:00,Yes,Text
+6,6,3,6,Excited for the cooking lesson!,2025-09-29 12:30,No,Text
+7,7,18,7,When is the Photoshop session scheduled?,2025-09-26 10:10,Yes,Text
+8,8,6,8,Hi! Can you guide me through JS project?,2025-09-27 13:50,Yes,Text
+9,9,21,9,Looking forward to piano practice.,2025-09-29 15:30,No,Text
+10,10,10,10,Hi, ready for SEO session?,2025-09-27 10:05,Yes,Text
+11,11,4,11,Can you explain portrait photography tips?,2025-09-29 11:20,Yes,Text
+12,12,13,12,Hi! Need help with Python data analysis.,2025-09-30 14:45,No,Text
+13,13,8,13,Hello! Ready for logo design session?,2025-09-26 12:30,Yes,Text
+14,14,2,14,Excited to learn baking!,2025-09-28 09:50,Yes,Text
+15,15,11,15,Can we start coding algorithms today?,2025-09-26 15:10,No,Text
+16,16,14,16,Hi! Shall we begin English conversation?,2025-09-27 10:30,Yes,Text
+17,17,17,17,Looking forward to electric guitar lesson.,2025-09-29 14:00,Yes,Text
+18,18,19,18,Hi! Ready for full-stack Python session?,2025-09-30 09:45,No,Text
+19,19,22,19,Can you help with Photoshop editing?,2025-09-28 11:15,Yes,Text
+20,20,24,20,Hi! Music theory session time?,2025-09-27 13:40,Yes,Text
+21,21,1,21,Hello! Video editing session?,2025-09-29 15:50,No,Text
+22,22,5,22,Ready to start HTML/CSS basics?,2025-09-28 10:25,Yes,Text
+23,23,6,23,Hi! Need guidance on SQL queries.,2025-09-30 12:10,Yes,Text
+24,24,7,24,Can we practice Spanish today?,2025-09-27 14:30,No,Text
+25,25,8,25,Excited for Italian cuisine session!,2025-09-29 09:20,Yes,Text
+26,26,9,26,Hi! Ready for Python data project?,2025-09-30 11:55,Yes,Text
+27,27,10,27,Can we start classical guitar lesson?,2025-09-28 15:40,No,Text
+28,28,11,28,Hello! Photoshop effects session?,2025-09-29 13:15,Yes,Text
+29,29,12,29,Hi! Need help with Excel macros.,2025-09-27 10:50,Yes,Text
+30,30,13,30,Ready for React basics session?,2025-09-30 14:25,No,Text
+31,31,14,31,Hi! Landscape editing guidance?,2025-09-28 12:35,Yes,Text
+32,32,15,32,Hello! Coding algorithms session?,2025-09-29 15:05,Yes,Text
+33,33,16,33,Hi! Cake decoration help?,2025-09-30 10:40,No,Text
+34,34,17,34,Ready for English grammar session?,2025-09-27 09:55,Yes,Text
+35,35,18,35,Hello! Advanced music theory lesson?,2025-09-29 14:20,Yes,Text
+36,36,19,36,Hi! After Effects session time?,2025-09-28 13:10,No,Text
+37,37,20,37,Ready for web design guidance?,2025-09-29 11:35,Yes,Text
+38,38,21,38,Hi! Data pipelines session?,2025-09-30 12:50,Yes,Text
+39,39,22,39,Can we practice Spanish today?,2025-09-27 14:45,No,Text
+40,40,23,40,Hello! Dessert making lesson?,2025-09-29 09:30,Yes,Text
+41,41,24,41,Hi! Machine Learning basics?,2025-09-30 11:15,Yes,Text
+42,42,25,42,Ready for blues guitar lesson?,2025-09-28 13:05,No,Text
+43,43,26,43,Hello! Photo retouching guidance?,2025-09-29 12:45,Yes,Text
+44,44,27,44,Hi! Data reporting session?,2025-09-27 10:20,Yes,Text
+45,45,28,45,Ready for React basics?,2025-09-28 15:05,No,Text
+46,46,29,46,Hello! Wedding photography guidance?,2025-09-29 14:50,Yes,Text
+47,47,30,47,Hi! DSA practice session?,2025-09-30 11:30,Yes,Text
+48,48,31,48,Ready for healthy baking lesson?,2025-09-28 13:45,No,Text
+49,49,32,49,Hello! Business English session?,2025-09-29 10:15,Yes,Text
+50,50,33,50,Hi! Piano improvisation guidance?,2025-09-30 14:40,Yes,Text

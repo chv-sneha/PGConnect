@@ -1,0 +1,51 @@
+question_id,question_text,weight,tech_points,creative_points,social_points,practical_points,example_options,purpose
+1,What type of activities do you enjoy most?,2.5,1,1,1,1,"Working with technology • Creating art • Helping others • Building things",Interest base
+2,Which environment do you prefer to work in?,2.0,1,1,1,1,"Office/Remote • Creative Studio • Community • Outdoor",Work setting
+3,What are your strongest skills?,3.0,1,1,1,1,"Problem-solving • Creativity • Communication • Practical skills",Strengths
+4,What motivates you the most?,2.5,1,1,1,1,"Innovation • Creativity • Helping others • Tangible results",Motivation driver
+5,How do you prefer to learn new skills?,1.5,1,1,1,1,"Online tutorials • Hands-on • Mentors • Books",Learning style
+6,How do you usually solve a problem?,2.5,1,1,1,1,"Analyze data • Think outside box • Discuss with people • Fix manually",Cognitive style
+7,What kind of projects excite you?,2.0,1,1,1,1,"Coding/app dev • Art design • Volunteering • Engineering models",Project preference
+8,How comfortable are you with technology?,3.0,1,0,0,0,"Very comfortable • Somewhat • Neutral • Prefer manual tasks",Tech comfort level
+9,What do you value most in a career?,2.5,1,1,1,1,"Growth & innovation • Creative freedom • Social impact • Stability",Career values
+10,How do you handle challenges?,2.0,1,1,1,1,"Logic & research • Creative thinking • Emotional support • Physical effort",Behavior under stress
+11,What do you do in free time?,1.5,1,1,1,1,"Gaming • Drawing • Volunteering • Fixing things",Personality insight
+12,How important is teamwork to you?,2.0,0,0,1,1,"Very • Somewhat • Neutral • Prefer solo",Team preference
+13,What excites you more?,2.5,1,1,0,1,"Innovation • Art • Helping others • Building",Motivation focus
+14,Do you prefer flexible or structured routines?,1.5,1,1,0,1,"Flexible • Structured • Depends • No preference",Work style
+15,What kind of satisfaction do you seek?,2.5,1,1,1,1,"Solving problems • Creating beauty • Helping • Building results",Career satisfaction
+16,How do you handle feedback?,2.0,1,1,1,1,"Analyze logically • Adapt creatively • Accept empathetically • Improve practically",Growth mindset
+17,How do you feel about automation?,2.0,1,0,0,0,"Excited • Neutral • Uncomfortable • Opposed",Tech adaptability
+18,Do you prefer quick wins or long-term impact?,2.0,1,1,1,1,"Quick • Long-term • Both • None",Work goal
+19,How open are you to learning new tech tools?,3.0,1,0,0,0,"Very • Somewhat • Neutral • Not much",Adaptability
+20,Do you enjoy managing people?,2.0,0,0,1,0,"Yes • Sometimes • Rarely • No",Leadership tendency
+21,Would you prefer coding or creating visuals?,3.0,1,1,0,0,"Coding • Visuals • Both • None",Career inclination
+22,Do you like solving logical puzzles?,2.5,1,0,0,0,"Yes • Sometimes • No • Rarely",Analytical skill
+23,Do you enjoy helping people emotionally?,2.5,0,0,1,0,"Yes • Sometimes • Rarely • No",Empathy check
+24,Do you like working outdoors?,2.0,0,0,0,1,"Yes • Sometimes • No • Rarely",Physical preference
+25,Do you prefer stability or innovation?,2.5,1,1,1,1,"Innovation • Stability • Both • None",Career drive
+11,Which task feels most rewarding to you?,2.0,1,1,0,0
+12,How do you prefer to spend your weekends?,1.2,0,1,1,0
+13,Which tools do you use often?,2.5,1,1,0,0
+14,Do you like leading or collaborating?,1.8,0,0,1,0
+15,How comfortable are you with public speaking?,1.5,0,0,1,0
+16,What type of challenges excite you?,2.3,1,1,0,1
+17,Would you prefer to innovate or improve existing ideas?,2.1,1,1,0,0
+18,Do you enjoy artistic activities?,1.9,0,1,0,0
+19,Do you enjoy solving puzzles?,2.0,1,0,0,0
+20,Do you like outdoor or indoor work?,1.2,0,0,0,1
+21,Do you work better alone or in a team?,1.7,0,0,1,0
+22,Are you comfortable using AI tools?,2.4,1,0,0,0
+23,Do you enjoy creating new designs?,2.0,0,1,0,0
+24,Do you like helping people directly?,1.6,0,0,1,0
+25,Do you value financial stability or innovation?,1.9,1,1,0,1
+26,Do you enjoy analyzing trends?,2.3,1,0,0,0
+27,Do you prefer structure or flexibility?,1.5,0,1,0,1
+28,Are you interested in emerging technologies?,2.7,1,1,0,0
+29,Do you like mentoring others?,1.8,0,0,1,0
+30,Do you like experimenting with ideas?,2.2,1,1,0,0
+31,Would you prefer working with people or systems?,2.0,1,0,1,0
+32,Do you enjoy competitive environments?,1.7,0,1,1,0
+33,Do you enjoy practical repair work?,2.1,1,0,0,1
+34,Do you value teamwork more than autonomy?,1.6,0,0,1,1
+35,Would you enjoy making presentations?,1.8,0,0,1,0

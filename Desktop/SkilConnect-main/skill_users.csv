@@ -1,0 +1,26 @@
+id,name,email,offerSkill,wantSkill,lat,lng,rating
+1,Amit Kumar,amit@example.com,React,UI/UX Design,13.0450,77.5800,4.5
+2,Priya Sharma,priya@example.com,Photography,Video Editing,13.0600,77.5900,4.2
+3,Rohit Singh,rohit@example.com,Video Editing,Photography,13.0400,77.5500,4.7
+4,Sneha Patel,sneha@example.com,UI/UX Design,React,13.0525,77.5655,4.3
+5,Arjun Reddy,arjun@example.com,Python,Machine Learning,13.0350,77.5750,4.6
+6,Kavya Nair,kavya@example.com,Digital Marketing,Graphic Design,13.0650,77.5850,4.1
+7,Vikram Joshi,vikram@example.com,Guitar,Singing,13.0300,77.5600,4.4
+8,Ananya Das,ananya@example.com,Content Writing,SEO,13.0550,77.5700,4.0
+9,Ravi Kumar,ravi@example.com,Java,Spring Boot,13.0480,77.5720,4.5
+10,Meera Iyer,meera@example.com,Graphic Design,Animation,13.0520,77.5680,4.3
+11,Karthik Raj,karthik@example.com,Machine Learning,Data Science,13.0380,77.5620,4.6
+12,Divya Menon,divya@example.com,Singing,Music Production,13.0420,77.5580,4.2
+13,Suresh Babu,suresh@example.com,AutoCAD,3D Modeling,13.0580,77.5780,4.4
+14,Lakshmi Devi,lakshmi@example.com,Cooking,Food Photography,13.0320,77.5540,4.1
+15,Rajesh Kumar,rajesh@example.com,Excel,Data Analysis,13.0460,77.5640,4.3
+16,Pooja Reddy,pooja@example.com,Dance,Choreography,13.0540,77.5760,4.5
+17,Naveen Singh,naveen@example.com,WordPress,Web Design,13.0410,77.5590,4.2
+18,Sita Lakshmi,sita@example.com,Tailoring,Fashion Design,13.0590,77.5810,4.0
+19,Ganesh Murthy,ganesh@example.com,Accounting,Financial Planning,13.0370,77.5630,4.4
+20,Radha Krishna,radha@example.com,Yoga,Meditation,13.0510,77.5690,4.6
+21,Venkat Rao,venkat@example.com,Electronics,IoT,13.0440,77.5610,4.3
+22,Sunita Sharma,sunita@example.com,Hindi,English,13.0560,77.5770,4.2
+23,Mohan Das,mohan@example.com,Carpentry,Furniture Design,13.0390,77.5570,4.1
+24,Geetha Bai,geetha@example.com,Embroidery,Textile Design,13.0470,77.5650,4.4
+25,Prakash Joshi,prakash@example.com,Driving,Vehicle Maintenance,13.0530,77.5710,4.0

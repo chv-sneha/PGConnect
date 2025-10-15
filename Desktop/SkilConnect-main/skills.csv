@@ -1,0 +1,51 @@
+skill_id,skill_name,category,difficulty,learning_months,market_demand,salary_boost_percent
+1,JavaScript,Technical,Intermediate,4,Very High,15
+2,Python,Technical,Beginner,3,Very High,20
+3,React,Technical,Intermediate,5,High,12
+4,SQL,Technical,Beginner,3,High,10
+5,Figma,Creative,Beginner,2,High,10
+6,SEO,Business,Intermediate,3,Medium,8
+7,Google Ads,Business,Intermediate,2,Medium,7
+8,Ethical Hacking,Technical,Advanced,6,Very High,20
+9,CAD,Engineering,Intermediate,4,High,12
+10,Photoshop,Creative,Beginner,3,High,9
+11,Illustrator,Creative,Intermediate,4,High,8
+12,TensorFlow,Technical,Advanced,6,Very High,22
+13,Excel,Business,Beginner,2,High,6
+14,Leadership,Soft,Intermediate,4,High,10
+15,Data Visualization,Technical,Intermediate,3,Very High,12
+16,Networking,Technical,Intermediate,4,High,10
+17,Communication,Soft,Beginner,2,Very High,8
+18,Public Speaking,Soft,Intermediate,3,Medium,7
+19,Project Management,Business,Intermediate,4,High,12
+20,Creative Writing,Creative,Beginner,3,High,10
+21,Machine Learning,Technical,Advanced,6,Very High,20
+22,Cloud Computing,Technical,Advanced,5,Very High,18
+23,3D Modelling,Creative,Intermediate,5,High,10
+24,Content Strategy,Business,Intermediate,3,High,8
+25,Empathy,Soft,Beginner,2,Medium,6
+26,React Native,Technical,Intermediate,6,High,15
+27,TensorFlow,Technical,Advanced,8,Very High,25
+28,Solidity,Technical,Advanced,6,Very High,20
+29,Public Speaking,Soft,Intermediate,3,High,10
+30,Excel,Technical,Beginner,2,High,10
+31,SEO,Technical,Intermediate,3,High,15
+32,Data Visualization,Technical,Intermediate,4,Very High,15
+33,Figma,Creative,Beginner,2,High,10
+34,Unity,Technical,Intermediate,5,High,15
+35,AutoCAD,Technical,Intermediate,4,High,15
+36,Video Editing,Creative,Beginner,3,High,10
+37,Research Writing,Analytical,Intermediate,5,High,10
+38,Python for Data,Technical,Intermediate,5,Very High,20
+39,Negotiation,Soft,Intermediate,4,Moderate,8
+40,Social Media Marketing,Creative,Beginner,2,High,10
+41,Cybersecurity,Technical,Advanced,6,Very High,20
+42,Cloud Computing,Technical,Advanced,8,Very High,25
+43,3D Modeling,Creative,Intermediate,4,High,15
+44,Communication,Soft,Beginner,2,High,8
+45,Leadership,Soft,Advanced,5,High,15
+46,SQL,Technical,Intermediate,3,Very High,15
+47,Photography,Creative,Beginner,2,High,10
+48,Machine Learning,Technical,Advanced,8,Very High,25
+49,Data Cleaning,Technical,Intermediate,3,High,10
+50,Web3 Development,Technical,Advanced,6,High,20

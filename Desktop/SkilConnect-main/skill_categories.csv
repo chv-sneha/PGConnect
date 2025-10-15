@@ -1,0 +1,51 @@
+id,name,description,icon,color,parent_category_id
+1,Programming,All coding and development skills,code,#FF5733,
+2,Design,Graphic, UI/UX, and creative design skills,brush,#33FF57,
+3,Music,Instrumental and vocal skills,music,#3357FF,
+4,Languages,Foreign and native languages,language,#F1C40F,
+5,Culinary,Cooking and baking skills,utensils,#9B59B6,
+6,Productivity,Office and productivity tools,clipboard,#E67E22,
+7,Photography,Photography and photo editing,camera,#1ABC9C,
+8,Marketing,Marketing, SEO, and advertising,bullhorn,#E74C3C,
+9,Data Science,Data analysis, machine learning,analytics,#8E44AD,1
+10,Web Development,Web frameworks, HTML/CSS/JS,web,#2ECC71,1
+11,UI/UX Design,User interface and experience design,interface,#3498DB,2
+12,Video Editing,Video production and editing,film,#F39C12,2
+13,Languages Advanced,Advanced language skills,speech,#D35400,4
+14,Baking,Desserts and pastries,cake,#C0392B,5
+15,Italian Cuisine,Italian cooking techniques,pizza,#7F8C8D,5
+16,Python,Python programming skills,python,#1F618D,1
+17,JavaScript,JS coding skills,js,#27AE60,1
+18,Graphic Design,Design software and creativity,artboard,#9B59B6,2
+19,Photography Editing,Photo retouching and editing,edit,#2980B9,7
+20,Music Theory,Theory and composition,music-note,#8E44AD,3
+21,Spanish,Spanish language skills,spain,#F1C40F,4
+22,French,French language skills,france,#E74C3C,4
+23,English,English language skills,uk,#3498DB,4
+24,SEO,Search engine optimization,bullhorn,#E67E22,8
+25,Data Analysis,Data handling and visualization,chart,#8E44AD,9
+26,Machine Learning,AI and ML techniques,robot,#2ECC71,9
+27,UI Design,Interface layout and design,layout,#1ABC9C,11
+28,UX Research,User experience research,search,#F39C12,11
+29,Piano,Piano instrument lessons,piano,#9B59B6,3
+30,Guitar,Guitar instrument lessons,guitar,#2ECC71,3
+31,C++ ,C++ programming skills,cplusplus,#34495E,1
+32,SQL,Database management skills,database,#16A085,9
+33,Excel,Spreadsheet skills,table,#D35400,6
+34,Photoshop,Photo editing software,photoshop,#E74C3C,2
+35,Video Production,Filming and editing,clapperboard,#F1C40F,12
+36,Baking Advanced,Advanced baking techniques,cupcake,#7F8C8D,14
+37,Italian Pastry,Italian pastries,croissant,#C0392B,14
+38,Digital Marketing,Online marketing techniques,megaphone,#F39C12,8
+39,Content Writing,Writing for web,pen,#2980B9,8
+40,SQL Advanced,Advanced database queries,database,#8E44AD,32
+41,React,Frontend JS framework,react,#27AE60,17
+42,Node.js,Backend JS framework,node,#2ECC71,17
+43,Photography Basics,Basic photography skills,camera,#1ABC9C,7
+44,Music Production,Recording and producing music,headphones,#9B59B6,3
+45,Cooking Basics,Basic cooking techniques,pan,#E67E22,5
+46,English Conversation,Conversational English,chat,#3498DB,23
+47,Spanish Conversation,Conversational Spanish,chat,#F1C40F,21
+48,French Conversation,Conversational French,chat,#E74C3C,22
+49,Data Visualization,Charts and dashboards,chart,#8E44AD,25
+50,Python Advanced,Advanced Python skills,python,#1F618D,16

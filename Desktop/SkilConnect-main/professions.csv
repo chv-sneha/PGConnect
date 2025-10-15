@@ -1,0 +1,51 @@
+id,name,description,icon,category
+1,Dancer,Performs dance routines,icon_dance.png,Arts
+2,Web Developer,Builds websites,icon_web.png,Technology
+3,Graphic Designer,Creates visual content,icon_graphic.png,Design
+4,Photographer,Captures professional photos,icon_photo.png,Arts
+5,Music Teacher,Teaches music skills,icon_music.png,Arts
+6,Yoga Instructor,Leads yoga sessions,icon_yoga.png,Fitness
+7,Chef,Prepares and cooks meals,icon_chef.png,Culinary
+8,Content Writer,Writes articles/blogs,icon_writer.png,Media
+9,Event Planner,Organizes events,icon_event.png,Management
+10,Data Analyst,Analyzes data trends,icon_data.png,Technology
+11,UX Designer,Designs user experiences,icon_ux.png,Design
+12,Teacher,Educates students in schools,icon_teacher.png,Education
+13,Software Engineer,Develops software apps,icon_software.png,Technology
+14,Actor,Performs in theater or film,icon_actor.png,Arts
+15,DJ,Performs music mixing,icon_dj.png,Arts
+16,Fitness Trainer,Provides workout guidance,icon_fitness.png,Fitness
+17,Translator,Translates documents,icon_translate.png,Language
+18,Mechanic,Fixes vehicles,icon_mechanic.png,Technical
+19,Illustrator,Draws illustrations,icon_illustrator.png,Design
+20,SEO Specialist,Optimizes websites for search,icon_seo.png,Marketing
+21,Barista,Makes coffee and beverages,icon_barista.png,Culinary
+22,Digital Marketer,Promotes brands online,icon_digital.png,Marketing
+23,App Developer,Develops mobile apps,icon_app.png,Technology
+24,Photomodel,Model for photoshoots,icon_model.png,Arts
+25,Voiceover Artist,Provides voice recordings,icon_voice.png,Media
+26,Interior Designer,Designs interiors,icon_interior.png,Design
+27,Personal Trainer,Guides personal fitness,icon_personal.png,Fitness
+28,Career Coach,Guides professional growth,icon_coach.png,Management
+29,Actor Coach,Trains actors,icon_actorcoach.png,Arts
+30,Painter,Creates artwork paintings,icon_painter.png,Arts
+31,Makeup Artist,Applies professional makeup,icon_makeup.png,Beauty
+32,Blogger,Writes blogs online,icon_blogger.png,Media
+33,AI Specialist,Works with AI technologies,icon_ai.png,Technology
+34,Lawyer,Provides legal counsel,icon_lawyer.png,Legal
+35,Photographer Assistant,Assists photographers,icon_assistant.png,Arts
+36,Carpenter,Builds furniture,icon_carpenter.png,Technical
+37,Plumber,Fixes plumbing issues,icon_plumber.png,Technical
+38,Nutritionist,Provides diet advice,icon_nutrition.png,Health
+39,Social Media Manager,Manages social accounts,icon_smm.png,Marketing
+40,Film Director,Directs films,icon_director.png,Arts
+41,Musician,Plays musical instruments,icon_musician.png,Arts
+42,Photographer Drone,Drone photography,icon_drone.png,Arts
+43,Event Coordinator,Coordinates events,icon_coord.png,Management
+44,Speech Therapist,Improves speech skills,icon_speech.png,Health
+45,Web Designer,Designs websites,icon_webdesign.png,Design
+46,AI Trainer,Trains AI models,icon_ai_trainer.png,Technology
+47,Chef Assistant,Assists chefs,icon_chef_assist.png,Culinary
+48,Game Developer,Develops games,icon_game.png,Technology
+49,Calligrapher,Creates artistic writing,icon_calligraphy.png,Arts
+50,Photographer Retoucher,Edits photos professionally,icon_retouch.png,Arts

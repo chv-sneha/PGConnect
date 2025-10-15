@@ -1,0 +1,21 @@
+id,name,skill,lat,lng,date,prize,description,registrationLink
+1,React Hackathon 2025,React,13.0500,77.5800,2025-02-15,₹50000,Build amazing React applications in 48 hours,https://reacthackathon.com
+2,UI/UX Design Workshop,UI/UX Design,13.0600,77.5900,2025-02-20,Certificate,Learn modern design principles and tools,https://uxworkshop.com
+3,Photography Contest,Photography,13.0400,77.5600,2025-02-25,₹25000,Capture the beauty of Bangalore city,https://photocontest.com
+4,Python Bootcamp,Python,13.0350,77.5750,2025-03-01,Job Placement,Intensive Python training with placement,https://pythonbootcamp.com
+5,Digital Marketing Summit,Digital Marketing,13.0650,77.5850,2025-03-05,₹30000,Latest trends in digital marketing,https://marketingsummit.com
+6,Machine Learning Conference,Machine Learning,13.0380,77.5620,2025-03-10,₹40000,AI and ML innovations showcase,https://mlconference.com
+7,Guitar Competition,Guitar,13.0300,77.5600,2025-03-15,₹15000,Showcase your guitar skills,https://guitarcomp.com
+8,Video Editing Workshop,Video Editing,13.0400,77.5500,2025-03-20,Certificate,Professional video editing techniques,https://videoworkshop.com
+9,Graphic Design Challenge,Graphic Design,13.0650,77.5850,2025-03-25,₹20000,Creative design competition,https://designchallenge.com
+10,Content Writing Contest,Content Writing,13.0550,77.5700,2025-04-01,₹18000,Best content creator award,https://writingcontest.com
+11,Java Developer Meetup,Java,13.0480,77.5720,2025-04-05,Networking,Connect with Java developers,https://javameetup.com
+12,Singing Competition,Singing,13.0420,77.5580,2025-04-10,₹22000,Voice of Bangalore 2025,https://singingcomp.com
+13,Data Science Symposium,Data Science,13.0380,77.5620,2025-04-15,₹35000,Data-driven insights and analytics,https://datasymposium.com
+14,Dance Festival,Dance,13.0540,77.5760,2025-04-20,₹28000,Traditional and modern dance forms,https://dancefest.com
+15,Web Design Bootcamp,Web Design,13.0410,77.5590,2025-04-25,Job Guarantee,Complete web design training,https://webbootcamp.com
+16,Cooking Championship,Cooking,13.0320,77.5540,2025-05-01,₹12000,Master chef competition,https://cookingchamp.com
+17,AutoCAD Workshop,AutoCAD,13.0580,77.5780,2025-05-05,Certificate,Technical drawing and design,https://autocadworkshop.com
+18,SEO Masterclass,SEO,13.0550,77.5700,2025-05-10,₹16000,Search engine optimization secrets,https://seomasterclass.com
+19,Animation Festival,Animation,13.0520,77.5680,2025-05-15,₹24000,Animated storytelling competition,https://animfest.com
+20,Yoga Retreat,Yoga,13.0510,77.5690,2025-05-20,₹8000,Wellness and mindfulness workshop,https://yogaretreat.com

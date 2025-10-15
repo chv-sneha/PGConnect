@@ -1,0 +1,51 @@
+id,user_id,skill_offered,skill_wanted,title,description,category,difficulty_level,duration,location,is_online,status,created_at,updated_at,views,likes
+1,1,Python,Graphic Design,Learn Python Basics,Introductory Python course for beginners,Programming,Beginner,2 weeks,Remote,Yes,Active,01/10/25,01/10/25,120,15
+2,2,Photoshop,Python,Photoshop for Beginners,Learn the basics of Photoshop,Design,Beginner,1 week,New York,No,Active,25/09/25,26/09/25,85,10
+3,3,Guitar,Singing,Acoustic Guitar Lessons,Master acoustic guitar fundamentals,Music,Intermediate,4 weeks,Los Angeles,No,Active,28/09/25,02/10/25,40,8
+4,4,Excel,Python,Excel Automation with Python,Learn to automate Excel tasks,Productivity,Intermediate,3 weeks,Remote,Yes,Active,20/09/25,22/09/25,95,12
+5,5,Spanish,English,Spanish Conversation Practice,Improve conversational Spanish,Languages,Beginner,2 weeks,Madrid,No,Active,15/09/25,16/09/25,60,5
+6,6,Cooking,Baking,Italian Cooking Lessons,Learn classic Italian dishes,Culinary,Beginner,1 week,Remote,Yes,Active,30/09/25,01/10/25,50,7
+7,7,Photoshop,Video Editing,Advanced Photoshop Techniques,Advanced retouching and effects,Design,Advanced,4 weeks,London,No,Active,12/09/25,15/09/25,30,4
+8,8,JavaScript,UI Design,JS for Designers,Interactive web development for designers,Programming,Intermediate,3 weeks,Remote,Yes,Active,18/09/25,20/09/25,70,9
+9,9,Piano,Music Theory,Piano Fundamentals,Learn basic piano skills and scales,Music,Beginner,2 weeks,Chicago,No,Active,22/09/25,23/09/25,45,6
+10,10,SEO,Content Writing,SEO Basics,Improve website SEO,Marketing,Beginner,1 week,Remote,Yes,Active,17/09/25,18/09/25,55,8
+11,11,Photography,Photoshop,Portrait Photography,Learn portrait techniques,Photography,Intermediate,2 weeks,Paris,No,Active,14/09/25,15/09/25,40,6
+12,12,Python,SQL,Data Analysis with Python,Python for analyzing datasets,Programming,Intermediate,3 weeks,Remote,Yes,Active,19/09/25,21/09/25,90,11
+13,13,Graphic Design,Illustrator,Logo Design Masterclass,Design unique logos,Design,Advanced,4 weeks,Berlin,No,Active,10/09/25,13/09/25,25,3
+14,14,Baking,Cooking,Pastry Basics,Learn baking pastries, Culinary,Beginner,1 week,Remote,Yes,Active,23/09/25,24/09/25,35,5
+15,15,C++ ,Python,Competitive Coding Prep,Prepare for coding competitions,Programming,Advanced,5 weeks,Remote,Yes,Active,05/09/25,06/09/25,60,9
+16,16,English,Spanish,English Conversation,Improve English fluency,Languages,Intermediate,2 weeks,London,No,Active,08/09/25,09/09/25,50,6
+17,17,Guitar,Singing,Electric Guitar Lessons,Learn electric guitar chords,Music,Intermediate,3 weeks,New York,No,Active,12/09/25,13/09/25,40,4
+18,18,Python,JavaScript,Full-Stack Python,Web app development using Python,Programming,Advanced,6 weeks,Remote,Yes,Active,03/09/25,04/09/25,120,20
+19,19,Photoshop,Photography,Photo Editing,Edit photos like a pro,Design,Intermediate,2 weeks,Remote,Yes,Active,25/09/25,26/09/25,55,7
+20,20,Music Theory,Piano,Music Theory Basics,Learn fundamental music theory,Music,Beginner,2 weeks,Los Angeles,No,Active,18/09/25,19/09/25,35,5
+21,21,Video Editing,Photoshop,Premiere Pro Editing,Learn video editing,Design,Intermediate,3 weeks,Remote,Yes,Active,21/09/25,22/09/25,60,8
+22,22,HTML,CSS,Web Development Basics,Learn HTML and CSS,Programming,Beginner,2 weeks,Remote,Yes,Active,11/09/25,12/09/25,70,9
+23,23,SQL,Python,Database with Python,Data management with SQL & Python,Programming,Intermediate,3 weeks,Remote,Yes,Active,07/09/25,08/09/25,65,7
+24,24,Spanish,French,Language Exchange,Practice Spanish with a partner,Languages,Beginner,2 weeks,Paris,No,Active,02/09/25,03/09/25,30,4
+25,25,Cooking,Baking,Advanced Italian Cuisine,Master Italian cooking techniques,Culinary,Advanced,4 weeks,Rome,No,Active,01/09/25,02/09/25,25,3
+26,26,Python,Data Analysis,Python for Data Science,Data analytics using Python,Programming,Intermediate,3 weeks,Remote,Yes,Active,09/09/25,10/09/25,80,10
+27,27,Guitar,Singing,Classical Guitar Lessons,Learn classical guitar pieces,Music,Intermediate,4 weeks,New York,No,Active,05/09/25,06/09/25,40,5
+28,28,Photoshop,Graphic Design,Creative Photoshop Effects,Advanced Photoshop effects,Design,Advanced,3 weeks,Remote,Yes,Active,06/09/25,07/09/25,50,6
+29,29,Excel,Python,Excel Macros,Automate Excel with macros,Productivity,Intermediate,2 weeks,Remote,Yes,Active,12/09/25,13/09/25,70,8
+30,30,JavaScript,React,JS Web Apps,Build interactive web apps,Programming,Intermediate,4 weeks,Remote,Yes,Active,14/09/25,15/09/25,75,9
+31,31,Photography,Photoshop,Editing Landscapes,Learn landscape photo editing,Photography,Intermediate,2 weeks,Remote,Yes,Active,16/09/25,17/09/25,40,5
+32,32,C++ ,Python,Algorithm Training,Improve coding algorithms,Programming,Advanced,5 weeks,Remote,Yes,Active,01/09/25,02/09/25,55,7
+33,33,Baking,Cooking,Cake Decorating,Cake decoration techniques,Culinary,Intermediate,2 weeks,Remote,Yes,Active,03/09/25,04/09/25,35,4
+34,34,English,Spanish,English Grammar Lessons,Master English grammar,Languages,Beginner,2 weeks,London,No,Active,05/09/25,06/09/25,50,6
+35,35,Music Theory,Piano,Advanced Music Theory,Deep dive into music theory,Music,Advanced,4 weeks,Remote,Yes,Active,06/09/25,07/09/25,30,3
+36,36,Video Editing,Photoshop,After Effects Basics,Intro to After Effects,Design,Beginner,2 weeks,Remote,Yes,Active,07/09/25,08/09/25,45,5
+37,37,HTML,CSS,Web Design,Learn website design,Programming,Beginner,2 weeks,Remote,Yes,Active,08/09/25,09/09/25,65,8
+38,38,SQL,Python,Data Engineering,Build data pipelines,Programming,Intermediate,3 weeks,Remote,Yes,Active,09/09/25,10/09/25,75,10
+39,39,Spanish,French,Language Practice,Improve Spanish skills,Languages,Intermediate,2 weeks,Madrid,No,Active,10/09/25,11/09/25,35,4
+40,40,Cooking,Baking,Dessert Masterclass,Learn to make desserts,Culinary,Advanced,3 weeks,Remote,Yes,Active,11/09/25,12/09/25,30,3
+41,41,Python,Machine Learning,ML Basics,Intro to Machine Learning,Programming,Intermediate,4 weeks,Remote,Yes,Active,12/09/25,13/09/25,85,12
+42,42,Guitar,Singing,Blues Guitar Lessons,Learn blues guitar techniques,Music,Intermediate,3 weeks,New York,No,Active,13/09/25,14/09/25,40,5
+43,43,Photoshop,Photography,Photo Retouching,Advanced retouching skills,Design,Advanced,2 weeks,Remote,Yes,Active,14/09/25,15/09/25,25,4
+44,44,Excel,Python,Data Reporting,Generate reports using Excel,Productivity,Intermediate,2 weeks,Remote,Yes,Active,15/09/25,16/09/25,55,7
+45,45,JavaScript,React,Frontend Web Dev,Learn React basics,Programming,Intermediate,3 weeks,Remote,Yes,Active,16/09/25,17/09/25,70,9
+46,46,Photography,Photoshop,Wedding Photography,Master wedding photography,Photography,Advanced,4 weeks,Paris,No,Active,17/09/25,18/09/25,20,3
+47,47,C++ ,Python,DSA Practice,Data structures & algorithms,Programming,Advanced,5 weeks,Remote,Yes,Active,18/09/25,19/09/25,50,6
+48,48,Baking,Cooking,Healthy Baking,Bake healthy recipes,Culinary,Intermediate,2 weeks,Remote,Yes,Active,19/09/25,20/09/25,35,5
+49,49,English,Spanish,Business English,Improve business communication,Languages,Intermediate,2 weeks,London,No,Active,20/09/25,21/09/25,45,6
+50,50,Music Theory,Piano,Improvisation Skills,Learn piano improvisation,Music,Advanced,3 weeks,Remote,Yes,Active,21/09/25,22/09/25,25,3
