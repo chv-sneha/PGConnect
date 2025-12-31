@@ -1,5 +1,5 @@
 import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
-import { onAuthStateChanged, User as FirebaseUser, signOut, setPersistence, browserSessionPersistence } from 'firebase/auth';
+import { onAuthStateChanged, User as FirebaseUser, signOut } from 'firebase/auth';
 import { auth } from '../config/firebase';
 import { getUserProfile } from '../lib/firebase';
 
@@ -37,16 +37,12 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
   const [showPGSuccessMessage, setShowPGSuccessMessage] = useState(false);
 
   const register = (userData: User) => {
-    // This is now handled by the Auth component
-    // Just update the context state
     setIsAuthenticated(true);
     setUser(userData);
     setShowSuccessMessage(true);
   };
 
   const login = (email: string, password: string) => {
-    // This is now handled by the Auth component
-    // Just return true for compatibility
     return true;
   };
 
@@ -74,25 +70,26 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
   const setPGRegistrationSuccess = () => setShowPGSuccessMessage(true);
   const dismissPGSuccessMessage = () => setShowPGSuccessMessage(false);
 
-  // Set Firebase auth to session persistence only
-  useEffect(() => {
-    setPersistence(auth, browserSessionPersistence);
-  }, []);
-
   // Check for Firebase auth state changes
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, async (firebaseUser: FirebaseUser | null) => {
       if (firebaseUser) {
-        const userProfile = await getUserProfile(firebaseUser.uid);
-        if (userProfile) {
-          setIsAuthenticated(true);
-          setUser({
-            id: parseInt(firebaseUser.uid.slice(-6), 16),
-            name: userProfile.name || firebaseUser.displayName || '',
-            email: firebaseUser.email || '',
-            phone: userProfile.phone || '',
-            role: userProfile.role || 'student'
-          });
+        try {
+          const userProfile = await getUserProfile(firebaseUser.uid);
+          if (userProfile) {
+            setIsAuthenticated(true);
+            setUser({
+              id: parseInt(firebaseUser.uid.slice(-6), 16),
+              name: userProfile.fullName || firebaseUser.displayName || '',
+              email: firebaseUser.email || '',
+              phone: userProfile.phone || '',
+              role: userProfile.role || 'student'
+            });
+          }
+        } catch (error) {
+          console.error('Error fetching user profile:', error);
+          setIsAuthenticated(false);
+          setUser(null);
         }
       } else {
         setIsAuthenticated(false);
@@ -103,15 +100,6 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
     });
 
     return () => unsubscribe();
-  }, []);
-
-  // Clear any stale authentication data on mount
-  useEffect(() => {
-    const token = localStorage.getItem('token');
-    if (!token) {
-      setIsAuthenticated(false);
-      setUser(null);
-    }
   }, []);
 
   return (

@@ -123,12 +123,42 @@ const Auth = () => {
           }
         }, 100);
       }
-    } catch (error) {
+    } catch (error: any) {
       console.error('Auth error:', error);
-      const errorMessage = error.code === 'auth/wrong-password' ? 'Invalid password' :
-                          error.code === 'auth/user-not-found' ? 'User not found' :
-                          error.code === 'auth/email-already-in-use' ? 'Email already registered' :
-                          error.message || 'Authentication failed';
+      
+      let errorMessage = 'Authentication failed';
+      
+      if (error.code) {
+        switch (error.code) {
+          case 'auth/invalid-credential':
+            errorMessage = 'Invalid email or password. Please check your credentials.';
+            break;
+          case 'auth/user-not-found':
+            errorMessage = 'No account found with this email address.';
+            break;
+          case 'auth/wrong-password':
+            errorMessage = 'Incorrect password. Please try again.';
+            break;
+          case 'auth/email-already-in-use':
+            errorMessage = 'An account with this email already exists.';
+            break;
+          case 'auth/weak-password':
+            errorMessage = 'Password should be at least 6 characters long.';
+            break;
+          case 'auth/invalid-email':
+            errorMessage = 'Please enter a valid email address.';
+            break;
+          case 'auth/network-request-failed':
+            errorMessage = 'Network error. Please check your internet connection.';
+            break;
+          case 'auth/too-many-requests':
+            errorMessage = 'Too many failed attempts. Please try again later.';
+            break;
+          default:
+            errorMessage = error.message || 'Authentication failed';
+        }
+      }
+      
       alert(errorMessage);
     }
   };

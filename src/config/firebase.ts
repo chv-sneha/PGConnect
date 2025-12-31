@@ -21,6 +21,12 @@ const app = getApps().length === 0 ? initializeApp(firebaseConfig) : getApps()[0
 export const auth = getAuth(app);
 export const db = getFirestore(app);
 export const storage = getStorage(app);
-export const analytics = getAnalytics(app);
+
+// Initialize Analytics only in production
+let analytics;
+if (typeof window !== 'undefined' && !import.meta.env.DEV) {
+  analytics = getAnalytics(app);
+}
+export { analytics };
 
 export default app;
